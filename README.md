@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Reza Farmani!
 
-<!--
-**Rezafarmani04/Rezafarmani04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech Stack
+React
+Next.js
+Tailwind CSS
+Styled Components
+React Router
 
-Here are some ideas to get you started:
+🚀 Featured Projects
+1. Pedal Gallery
+📌 A [Car selling company]
+✨ Tech: Next.js, Tailwind CSS
+🎯 Key Features: Having good filters and informations for cars.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Drag & drop task management
+
+Authentication system
+
+Fully responsive
+
+2. Pedal Gallery Admin
+📌 ["Application for pedal gallery sellers"]
+✨ Tech: React, Styled Components
+🎯 Key Features: Having all the necessary functionality for an admin app.
+
+Optimized static pages (SSG)
+
+Advanced search system
+
+Advance filtering system
