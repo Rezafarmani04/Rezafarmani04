@@ -1,11 +1,12 @@
 ## Hi, I'm Reza Farmani!
 
 🛠 Tech Stack
-React
-Next.js
-Tailwind CSS
-Styled Components
-React Router
+React,
+Next.js,
+Tailwind CSS,
+Styled Components,
+React Router,
+supabase
 
 🚀 Featured Projects
 1. Pedal Gallery
