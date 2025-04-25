@@ -5,7 +5,7 @@ React,
 Next.js,
 Tailwind CSS,
 Styled Components,
-React Router,
+React Query,
 supabase
 
 🚀 Featured Projects
@@ -14,7 +14,7 @@ supabase
 ✨ Tech: Next.js, Tailwind CSS
 🎯 Key Features: Having good filters and informations for cars.
 
-Drag & drop task management
+https://pedal-gallery.vercel.app/
 
 Authentication system
 
@@ -25,7 +25,7 @@ Fully responsive
 ✨ Tech: React, Styled Components
 🎯 Key Features: Having all the necessary functionality for an admin app.
 
-Optimized static pages (SSG)
+https://pedal-gallery-admin.vercel.app/
 
 Advanced search system
 
